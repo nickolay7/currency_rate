@@ -1,0 +1,7 @@
+const AСTypes = {
+  EXCHANGE_RATES_DATA: "EXCHANGE_RATES_DATA",
+  RESET_RATES_DATA: "RESET_RATES_DATA",
+  EXCHANGE_RATE: "EXCHANGE_RATE",
+};
+
+export default AСTypes;
